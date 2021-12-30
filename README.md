@@ -27,9 +27,7 @@ The notebook uses the same hyperparameters and architecture described in the pap
 
 As you can see, the agent learned rapidly and then briefly fell into a local optima. However, the agent was able to quickly recover itself. I believe with hyperparameter tuning and a proper sample of trained agents, the results could still improve. 
 
-<img src="Ouput/PPO.png"> <img src="Ouput/sac.png">
-<img src="Ouput/sac.png">
-<img src="Ouput/TD3.png">
+<img src="Ouput/result.png"> 
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dHWlM7BWYqQ4Yc_LuQYij5zWhSapzxAD?usp=sharing)
