@@ -1,4 +1,4 @@
-# TD3
+# Reinforcement Learning for 4 Legged Robot
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1foJRBKv0ymV7I5cpmQ6bI4v6CyJ-qATs)
 
