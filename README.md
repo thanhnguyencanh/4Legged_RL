@@ -45,8 +45,6 @@ As you can see, the agent learned rapidly and then briefly fell into a local opt
 
 PyTorch code of: proximal policy optimization / ddpg / twin dueling ddpg / soft actor critic
 
-The deep reinforcement learning community has made several improvements to the [policy gradient](http://rll.berkeley.edu/deeprlcourse/f17docs/lecture_4_policy_gradient.pdf) algorithms. This tutorial presents latest extensions in the following order: 
-
 
   1.  Proximal Policy Optimization Algorithms 
   - [ppo.ipynb](https://github.com/NguyenCanhThanh/4Legged_RL/blob/main/ppo.ipynb)
