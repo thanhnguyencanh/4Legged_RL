@@ -4,7 +4,6 @@
 
 An implementation of the TD3 algorithm trained on the Roboschool HalfCheetah environment using pytorch. The code here is based on the work of the original authors of the TD3 algorithm found [here](https://github.com/sfujim/TD3). 
 
-<img src="media/trained_agent.gif">
 
 ## Getting Started
 
@@ -44,7 +43,7 @@ As you can see, the agent learned rapidly and then briefly fell into a local opt
 <img width="160px" height="22px" href="https://github.com/pytorch/pytorch" src="https://pp.userapi.com/c847120/v847120960/82b4/xGBK9pXAkw8.jpg">
 
 
-PyTorch tutorial of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
+PyTorch code of: proximal policy optimization / ddpg / twin dueling ddpg / soft actor critic
 
 The deep reinforcement learning community has made several improvements to the [policy gradient](http://rll.berkeley.edu/deeprlcourse/f17docs/lecture_4_policy_gradient.pdf) algorithms. This tutorial presents latest extensions in the following order: 
 
@@ -62,8 +61,4 @@ The deep reinforcement learning community has made several improvements to the [
   4. Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor 
   - [soft actor-critic.ipynb](https://github.com/NguyenCanhThanh/4Legged_RL/blob/main/soft%20actor-critic.ipynb)
   - [Soft Actor-Critic Paper](https://arxiv.org/abs/1801.01290)
-
-# If you get stuck… 
-- Remember you are not stuck unless you have spent more than a week on a single algorithm. It is perfectly normal if you do not have all the required knowledge of mathematics and CS.
-- Carefully go through the paper. Try to see what is the problem the authors are solving. Understand a high-level idea of the approach, then read the code (skipping the proofs), and after go over the mathematical details and proofs.
 
