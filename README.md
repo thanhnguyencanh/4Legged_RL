@@ -23,7 +23,7 @@ jupyter notebook
 
 ### Results
 
-Compare Algorithm:
+#### Compare Algorithm:
 
 The notebook uses the same hyperparameters and architecture described in the paper. The agent is trained for 5 million timesteps. The agent converged on a successfull policy after 400k timesteps. The results below show the agents avg score over the previous 100 episodes.
 
@@ -31,7 +31,8 @@ As you can see, the agent learned rapidly and then briefly fell into a local opt
 
 <img src="Ouput/Result.png"> 
 
-Learning Rate:
+#### Learning Rate:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dHWlM7BWYqQ4Yc_LuQYij5zWhSapzxAD?usp=sharing)
 
 An implementation of the TD3 algorithm trained on the Roboschool HalfCheetah environment using pytorch. The code here is based on the work of the original authors of the TD3 algorithm found [here](https://github.com/sfujim/TD3). 
