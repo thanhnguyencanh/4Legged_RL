@@ -37,6 +37,7 @@ As you can see, the agent learned rapidly and then briefly fell into a local opt
 
 An implementation of the SAC Autoturn Temperature Algorithms trained on the Roboschool Minitaur Bullet environment using pytorch found [here](https://github.com/NguyenCanhThanh/4Legged_RL/blob/main/SAC_Minitaur_TF.ipynb). 
 
+
 ## Acknowledgments
 
 * OpenAI [Spinning Up](https://github.com/openai/spinningup)
