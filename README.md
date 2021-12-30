@@ -27,7 +27,7 @@ jupyter notebook
 
 The notebook uses the same hyperparameters and architecture described in the paper. The agent is trained for 5 million timesteps. The agent converged on a successfull policy after 400k timesteps. The results below show the agents avg score over the previous 100 episodes.
 
-As you can see, the agent learned rapidly and then briefly fell into a local optima. However, the agent was able to quickly recover itself. I believe with hyperparameter tuning and a proper sample of trained agents, the results could still improve. 
+As you can see, SAC Autoturn Temperature Algorithms gives better results g or equivalent to standards such as TD3 and PP0
 
 <img src="Ouput/Result.png"> 
 
