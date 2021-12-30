@@ -28,7 +28,6 @@ jupyter notebook
 The notebook uses the same hyperparameters and architecture described in the paper. The agent is trained for 5 million timesteps. The agent converged on a successfull policy after 400k timesteps. The results below show the agents avg score over the previous 100 episodes.
 
 As you can see, the agent learned rapidly and then briefly fell into a local optima. However, the agent was able to quickly recover itself. I believe with hyperparameter tuning and a proper sample of trained agents, the results could still improve. 
-The results are described via video [here](https://youtu.be/ZIPqQUQlFTg)
 
 <img src="Ouput/Result.png"> 
 
@@ -37,6 +36,7 @@ The results are described via video [here](https://youtu.be/ZIPqQUQlFTg)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dHWlM7BWYqQ4Yc_LuQYij5zWhSapzxAD?usp=sharing)
 
 An implementation of the SAC Autoturn Temperature Algorithms trained on the Roboschool Minitaur Bullet environment using pytorch found [here](https://github.com/NguyenCanhThanh/4Legged_RL/blob/main/SAC_Minitaur_TF.ipynb). 
+The results are described via video [here](https://youtu.be/ZIPqQUQlFTg)
 
 <img src="Ouput/LR_Output.png"> 
 
