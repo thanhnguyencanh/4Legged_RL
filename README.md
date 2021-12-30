@@ -35,7 +35,7 @@ As you can see, the agent learned rapidly and then briefly fell into a local opt
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dHWlM7BWYqQ4Yc_LuQYij5zWhSapzxAD?usp=sharing)
 
-An implementation of the TD3 algorithm trained on the Roboschool HalfCheetah environment using pytorch. The code here is based on the work of the original authors of the TD3 algorithm found [here](https://github.com/sfujim/TD3). 
+An implementation of the SAC Autoturn Temperature Algorithms trained on the Roboschool Minitaur Bullet environment using pytorch found [here](https://github.com/NguyenCanhThanh/4Legged_RL/blob/main/SAC_Minitaur_TF.ipynb). 
 
 ## Acknowledgments
 
